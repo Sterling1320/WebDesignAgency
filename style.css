@@ -63,19 +63,24 @@ h1{
 }
 @media (max-width: 620px) {
   .logo {
-    width: 100px;
+    width: 400px;
+    display: block;
   }
 
   h1 {
     font-size: 3.5rem;
     text-align: center;
   }
+  .goal{
+    width:100%;
+  }
 
   .card {
     width: 100%;
     display: block;
+
     margin-bottom: 30px;
-    text-align: justify;
+    text-align: center;
   }
 
   .card img {
