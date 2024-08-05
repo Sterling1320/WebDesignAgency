@@ -63,8 +63,13 @@ h1{
 }
 @media (max-width: 620px) {
   .logo {
+    margin: 0;
+    margin-bottom: 30px;
     width: 400px;
     display: block;
+    text-align: center;
+    clear: both;
+    float: none;
   }
 
   h1 {
