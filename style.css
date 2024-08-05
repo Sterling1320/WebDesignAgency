@@ -84,9 +84,9 @@ h1{
   .card {
     width: 100%;
     display: block;
-
     margin-bottom: 30px;
     text-align: center;
+    object-fit: cover;
   }
 
   .card img {
